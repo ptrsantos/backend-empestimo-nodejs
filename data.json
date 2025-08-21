@@ -1,0 +1,30 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Produto 1",
+      "taxa": 0.0179,
+      "prazo": 24
+    },
+    {
+      "id": 2,
+      "nome": "Produto 2",
+      "taxa": 0.0175,
+      "prazo": 48
+    },
+    {
+      "id": 3,
+      "nome": "Produto 3",
+      "taxa": 0.0182,
+      "prazo": 96
+    },
+    {
+      "id": 4,
+      "nome": "Produto 4",
+      "taxa": 0.0151,
+      "prazo": 120
+    }
+  ],
+  "simulacoes": [],
+  "telemetry": []
+}

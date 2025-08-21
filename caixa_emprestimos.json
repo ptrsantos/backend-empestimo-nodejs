@@ -1,0 +1,144 @@
+{
+  "produtos": [
+    {
+      "id": 8,
+      "nome": "Novo Produto 7",
+      "taxa": 0.0177,
+      "prazo": 37
+    }
+  ],
+  "simulacoes": [
+    {
+      "id": 1,
+      "idSimulacao": 2025082034,
+      "valorDesejado": 10000,
+      "prazo": 12,
+      "produtoId": 1,
+      "resultadoSimulacao": "{\"tipo\":\"PRICE\",\"valorSolicitado\":10000,\"prazo\":12,\"taxaEfetivaMensal\":0.0179,\"parcelaMensal\":933.44,\"valorTotalComJuros\":11201.32,\"memoriaCalculo\":[{\"mes\":1,\"juros\":179,\"amortizacao\":754.44,\"saldo\":9245.56},{\"mes\":2,\"juros\":165.5,\"amortizacao\":767.95,\"saldo\":8477.61},{\"mes\":3,\"juros\":151.75,\"amortizacao\":781.69,\"saldo\":7695.92},{\"mes\":4,\"juros\":137.76,\"amortizacao\":795.69,\"saldo\":6900.23},{\"mes\":5,\"juros\":123.51,\"amortizacao\":809.93,\"saldo\":6090.3},{\"mes\":6,\"juros\":109.02,\"amortizacao\":824.43,\"saldo\":5265.87},{\"mes\":7,\"juros\":94.26,\"amortizacao\":839.18,\"saldo\":4426.69},{\"mes\":8,\"juros\":79.24,\"amortizacao\":854.21,\"saldo\":3572.49},{\"mes\":9,\"juros\":63.95,\"amortizacao\":869.5,\"saldo\":2702.99},{\"mes\":10,\"juros\":48.38,\"amortizacao\":885.06,\"saldo\":1817.93},{\"mes\":11,\"juros\":32.54,\"amortizacao\":900.9,\"saldo\":917.03},{\"mes\":12,\"juros\":16.41,\"amortizacao\":917.03,\"saldo\":0}]}",
+      "dataSimulacao": "2025-08-20T17:32:19.822Z"
+    },
+    {
+      "id": 2,
+      "idSimulacao": 2025082087,
+      "valorDesejado": 10000,
+      "prazo": 12,
+      "produtoId": 1,
+      "resultadoSimulacao": "{\"tipo\":\"PRICE\",\"valorSolicitado\":10000,\"prazo\":12,\"taxaEfetivaMensal\":0.0179,\"parcelaMensal\":933.44,\"valorTotalComJuros\":11201.32,\"memoriaCalculo\":[{\"mes\":1,\"juros\":179,\"amortizacao\":754.44,\"saldo\":9245.56},{\"mes\":2,\"juros\":165.5,\"amortizacao\":767.95,\"saldo\":8477.61},{\"mes\":3,\"juros\":151.75,\"amortizacao\":781.69,\"saldo\":7695.92},{\"mes\":4,\"juros\":137.76,\"amortizacao\":795.69,\"saldo\":6900.23},{\"mes\":5,\"juros\":123.51,\"amortizacao\":809.93,\"saldo\":6090.3},{\"mes\":6,\"juros\":109.02,\"amortizacao\":824.43,\"saldo\":5265.87},{\"mes\":7,\"juros\":94.26,\"amortizacao\":839.18,\"saldo\":4426.69},{\"mes\":8,\"juros\":79.24,\"amortizacao\":854.21,\"saldo\":3572.49},{\"mes\":9,\"juros\":63.95,\"amortizacao\":869.5,\"saldo\":2702.99},{\"mes\":10,\"juros\":48.38,\"amortizacao\":885.06,\"saldo\":1817.93},{\"mes\":11,\"juros\":32.54,\"amortizacao\":900.9,\"saldo\":917.03},{\"mes\":12,\"juros\":16.41,\"amortizacao\":917.03,\"saldo\":0}]}",
+      "dataSimulacao": "2025-08-20T23:19:29.611Z"
+    },
+    {
+      "id": 3,
+      "idSimulacao": 2025082045,
+      "valorDesejado": 10000,
+      "prazo": 12,
+      "produtoId": 1,
+      "resultadoSimulacao": "{\"tipo\":\"PRICE\",\"valorSolicitado\":10000,\"prazo\":12,\"taxaEfetivaMensal\":0.0179,\"parcelaMensal\":933.44,\"valorTotalComJuros\":11201.32,\"memoriaCalculo\":[{\"mes\":1,\"juros\":179,\"amortizacao\":754.44,\"saldo\":9245.56},{\"mes\":2,\"juros\":165.5,\"amortizacao\":767.95,\"saldo\":8477.61},{\"mes\":3,\"juros\":151.75,\"amortizacao\":781.69,\"saldo\":7695.92},{\"mes\":4,\"juros\":137.76,\"amortizacao\":795.69,\"saldo\":6900.23},{\"mes\":5,\"juros\":123.51,\"amortizacao\":809.93,\"saldo\":6090.3},{\"mes\":6,\"juros\":109.02,\"amortizacao\":824.43,\"saldo\":5265.87},{\"mes\":7,\"juros\":94.26,\"amortizacao\":839.18,\"saldo\":4426.69},{\"mes\":8,\"juros\":79.24,\"amortizacao\":854.21,\"saldo\":3572.49},{\"mes\":9,\"juros\":63.95,\"amortizacao\":869.5,\"saldo\":2702.99},{\"mes\":10,\"juros\":48.38,\"amortizacao\":885.06,\"saldo\":1817.93},{\"mes\":11,\"juros\":32.54,\"amortizacao\":900.9,\"saldo\":917.03},{\"mes\":12,\"juros\":16.41,\"amortizacao\":917.03,\"saldo\":0}]}",
+      "dataSimulacao": "2025-08-20T23:25:43.254Z"
+    },
+    {
+      "id": 4,
+      "idSimulacao": 2025082001,
+      "valorDesejado": 9000,
+      "prazo": 12,
+      "produtoId": 1,
+      "resultadoSimulacao": "{\"tipo\":\"PRICE\",\"valorSolicitado\":9000,\"prazo\":12,\"taxaEfetivaMensal\":0.0179,\"parcelaMensal\":840.1,\"valorTotalComJuros\":10081.18,\"memoriaCalculo\":[{\"mes\":1,\"juros\":161.1,\"amortizacao\":679,\"saldo\":8321},{\"mes\":2,\"juros\":148.95,\"amortizacao\":691.15,\"saldo\":7629.85},{\"mes\":3,\"juros\":136.57,\"amortizacao\":703.52,\"saldo\":6926.32},{\"mes\":4,\"juros\":123.98,\"amortizacao\":716.12,\"saldo\":6210.21},{\"mes\":5,\"juros\":111.16,\"amortizacao\":728.94,\"saldo\":5481.27},{\"mes\":6,\"juros\":98.11,\"amortizacao\":741.98,\"saldo\":4739.29},{\"mes\":7,\"juros\":84.83,\"amortizacao\":755.27,\"saldo\":3984.02},{\"mes\":8,\"juros\":71.31,\"amortizacao\":768.78,\"saldo\":3215.24},{\"mes\":9,\"juros\":57.55,\"amortizacao\":782.55,\"saldo\":2432.69},{\"mes\":10,\"juros\":43.55,\"amortizacao\":796.55,\"saldo\":1636.14},{\"mes\":11,\"juros\":29.29,\"amortizacao\":810.81,\"saldo\":825.33},{\"mes\":12,\"juros\":14.77,\"amortizacao\":825.33,\"saldo\":0}]}",
+      "dataSimulacao": "2025-08-20T23:26:30.761Z"
+    },
+    {
+      "id": 5,
+      "idSimulacao": 2025082005,
+      "valorDesejado": 10000,
+      "prazo": 13,
+      "produtoId": 1,
+      "resultadoSimulacao": "{\"tipo\":\"PRICE\",\"valorSolicitado\":10000,\"prazo\":13,\"taxaEfetivaMensal\":0.0179,\"parcelaMensal\":869.03,\"valorTotalComJuros\":11297.42,\"memoriaCalculo\":[{\"mes\":1,\"juros\":179,\"amortizacao\":690.03,\"saldo\":9309.97},{\"mes\":2,\"juros\":166.65,\"amortizacao\":702.38,\"saldo\":8607.58},{\"mes\":3,\"juros\":154.08,\"amortizacao\":714.96,\"saldo\":7892.63},{\"mes\":4,\"juros\":141.28,\"amortizacao\":727.75,\"saldo\":7164.87},{\"mes\":5,\"juros\":128.25,\"amortizacao\":740.78,\"saldo\":6424.09},{\"mes\":6,\"juros\":114.99,\"amortizacao\":754.04,\"saldo\":5670.05},{\"mes\":7,\"juros\":101.49,\"amortizacao\":767.54,\"saldo\":4902.51},{\"mes\":8,\"juros\":87.75,\"amortizacao\":781.28,\"saldo\":4121.23},{\"mes\":9,\"juros\":73.77,\"amortizacao\":795.26,\"saldo\":3325.97},{\"mes\":10,\"juros\":59.53,\"amortizacao\":809.5,\"saldo\":2516.47},{\"mes\":11,\"juros\":45.04,\"amortizacao\":823.99,\"saldo\":1692.49},{\"mes\":12,\"juros\":30.3,\"amortizacao\":838.74,\"saldo\":853.75},{\"mes\":13,\"juros\":15.28,\"amortizacao\":853.75,\"saldo\":0}]}",
+      "dataSimulacao": "2025-08-20T23:29:31.784Z"
+    },
+    {
+      "id": 6,
+      "idSimulacao": 2025082065,
+      "valorDesejado": 78000,
+      "prazo": 23,
+      "produtoId": 1,
+      "resultadoSimulacao": "{\"tipo\":\"PRICE\",\"valorSolicitado\":78000,\"prazo\":23,\"taxaEfetivaMensal\":0.0179,\"parcelaMensal\":4167.01,\"valorTotalComJuros\":95841.3,\"memoriaCalculo\":[{\"mes\":1,\"juros\":1396.2,\"amortizacao\":2770.81,\"saldo\":75229.19},{\"mes\":2,\"juros\":1346.6,\"amortizacao\":2820.41,\"saldo\":72408.78},{\"mes\":3,\"juros\":1296.12,\"amortizacao\":2870.9,\"saldo\":69537.88},{\"mes\":4,\"juros\":1244.73,\"amortizacao\":2922.29,\"saldo\":66615.59},{\"mes\":5,\"juros\":1192.42,\"amortizacao\":2974.59,\"saldo\":63641},{\"mes\":6,\"juros\":1139.17,\"amortizacao\":3027.84,\"saldo\":60613.16},{\"mes\":7,\"juros\":1084.98,\"amortizacao\":3082.04,\"saldo\":57531.12},{\"mes\":8,\"juros\":1029.81,\"amortizacao\":3137.21,\"saldo\":54393.92},{\"mes\":9,\"juros\":973.65,\"amortizacao\":3193.36,\"saldo\":51200.56},{\"mes\":10,\"juros\":916.49,\"amortizacao\":3250.52,\"saldo\":47950.03},{\"mes\":11,\"juros\":858.31,\"amortizacao\":3308.71,\"saldo\":44641.33},{\"mes\":12,\"juros\":799.08,\"amortizacao\":3367.93,\"saldo\":41273.39},{\"mes\":13,\"juros\":738.79,\"amortizacao\":3428.22,\"saldo\":37845.17},{\"mes\":14,\"juros\":677.43,\"amortizacao\":3489.58,\"saldo\":34355.59},{\"mes\":15,\"juros\":614.97,\"amortizacao\":3552.05,\"saldo\":30803.54},{\"mes\":16,\"juros\":551.38,\"amortizacao\":3615.63,\"saldo\":27187.91},{\"mes\":17,\"juros\":486.66,\"amortizacao\":3680.35,\"saldo\":23507.56},{\"mes\":18,\"juros\":420.79,\"amortizacao\":3746.23,\"saldo\":19761.33},{\"mes\":19,\"juros\":353.73,\"amortizacao\":3813.29,\"saldo\":15948.05},{\"mes\":20,\"juros\":285.47,\"amortizacao\":3881.54,\"saldo\":12066.5},{\"mes\":21,\"juros\":215.99,\"amortizacao\":3951.02,\"saldo\":8115.48},{\"mes\":22,\"juros\":145.27,\"amortizacao\":4021.75,\"saldo\":4093.74},{\"mes\":23,\"juros\":73.28,\"amortizacao\":4093.74,\"saldo\":0}]}",
+      "dataSimulacao": "2025-08-20T23:32:19.786Z"
+    },
+    {
+      "id": 7,
+      "idSimulacao": 2025082016,
+      "valorDesejado": 85000,
+      "prazo": 24,
+      "produtoId": 1,
+      "resultadoSimulacao": "{\"tipo\":\"PRICE\",\"valorSolicitado\":85000,\"prazo\":24,\"taxaEfetivaMensal\":0.0179,\"parcelaMensal\":4387.85,\"valorTotalComJuros\":105308.31,\"memoriaCalculo\":[{\"mes\":1,\"juros\":1521.5,\"amortizacao\":2866.35,\"saldo\":82133.65},{\"mes\":2,\"juros\":1470.19,\"amortizacao\":2917.65,\"saldo\":79216},{\"mes\":3,\"juros\":1417.97,\"amortizacao\":2969.88,\"saldo\":76246.12},{\"mes\":4,\"juros\":1364.81,\"amortizacao\":3023.04,\"saldo\":73223.08},{\"mes\":5,\"juros\":1310.69,\"amortizacao\":3077.15,\"saldo\":70145.93},{\"mes\":6,\"juros\":1255.61,\"amortizacao\":3132.23,\"saldo\":67013.69},{\"mes\":7,\"juros\":1199.55,\"amortizacao\":3188.3,\"saldo\":63825.39},{\"mes\":8,\"juros\":1142.47,\"amortizacao\":3245.37,\"saldo\":60580.02},{\"mes\":9,\"juros\":1084.38,\"amortizacao\":3303.46,\"saldo\":57276.55},{\"mes\":10,\"juros\":1025.25,\"amortizacao\":3362.6,\"saldo\":53913.96},{\"mes\":11,\"juros\":965.06,\"amortizacao\":3422.79,\"saldo\":50491.17},{\"mes\":12,\"juros\":903.79,\"amortizacao\":3484.05,\"saldo\":47007.12},{\"mes\":13,\"juros\":841.43,\"amortizacao\":3546.42,\"saldo\":43460.7},{\"mes\":14,\"juros\":777.95,\"amortizacao\":3609.9,\"saldo\":39850.8},{\"mes\":15,\"juros\":713.33,\"amortizacao\":3674.52,\"saldo\":36176.28},{\"mes\":16,\"juros\":647.56,\"amortizacao\":3740.29,\"saldo\":32435.99},{\"mes\":17,\"juros\":580.6,\"amortizacao\":3807.24,\"saldo\":28628.75},{\"mes\":18,\"juros\":512.45,\"amortizacao\":3875.39,\"saldo\":24753.36},{\"mes\":19,\"juros\":443.09,\"amortizacao\":3944.76,\"saldo\":20808.6},{\"mes\":20,\"juros\":372.47,\"amortizacao\":4015.37,\"saldo\":16793.22},{\"mes\":21,\"juros\":300.6,\"amortizacao\":4087.25,\"saldo\":12705.98},{\"mes\":22,\"juros\":227.44,\"amortizacao\":4160.41,\"saldo\":8545.57},{\"mes\":23,\"juros\":152.97,\"amortizacao\":4234.88,\"saldo\":4310.69},{\"mes\":24,\"juros\":77.16,\"amortizacao\":4310.69,\"saldo\":0}]}",
+      "dataSimulacao": "2025-08-20T23:32:46.446Z"
+    },
+    {
+      "id": 8,
+      "idSimulacao": 2025082060,
+      "valorDesejado": 10000,
+      "prazo": 12,
+      "produtoId": 1,
+      "resultadoSimulacao": "{\"tipo\":\"PRICE\",\"valorSolicitado\":10000,\"prazo\":12,\"taxaEfetivaMensal\":0.0179,\"parcelaMensal\":933.44,\"valorTotalComJuros\":11201.32,\"memoriaCalculo\":[{\"mes\":1,\"juros\":179,\"amortizacao\":754.44,\"saldo\":9245.56},{\"mes\":2,\"juros\":165.5,\"amortizacao\":767.95,\"saldo\":8477.61},{\"mes\":3,\"juros\":151.75,\"amortizacao\":781.69,\"saldo\":7695.92},{\"mes\":4,\"juros\":137.76,\"amortizacao\":795.69,\"saldo\":6900.23},{\"mes\":5,\"juros\":123.51,\"amortizacao\":809.93,\"saldo\":6090.3},{\"mes\":6,\"juros\":109.02,\"amortizacao\":824.43,\"saldo\":5265.87},{\"mes\":7,\"juros\":94.26,\"amortizacao\":839.18,\"saldo\":4426.69},{\"mes\":8,\"juros\":79.24,\"amortizacao\":854.21,\"saldo\":3572.49},{\"mes\":9,\"juros\":63.95,\"amortizacao\":869.5,\"saldo\":2702.99},{\"mes\":10,\"juros\":48.38,\"amortizacao\":885.06,\"saldo\":1817.93},{\"mes\":11,\"juros\":32.54,\"amortizacao\":900.9,\"saldo\":917.03},{\"mes\":12,\"juros\":16.41,\"amortizacao\":917.03,\"saldo\":0}]}",
+      "dataSimulacao": "2025-08-20T23:33:03.467Z"
+    },
+    {
+      "id": 9,
+      "idSimulacao": 2025082079,
+      "valorDesejado": 10000,
+      "prazo": 12,
+      "produtoId": 1,
+      "resultadoSimulacao": "{\"tipo\":\"PRICE\",\"valorSolicitado\":10000,\"prazo\":12,\"taxaEfetivaMensal\":0.0179,\"parcelaMensal\":933.44,\"valorTotalComJuros\":11201.32,\"memoriaCalculo\":[{\"mes\":1,\"juros\":179,\"amortizacao\":754.44,\"saldo\":9245.56},{\"mes\":2,\"juros\":165.5,\"amortizacao\":767.95,\"saldo\":8477.61},{\"mes\":3,\"juros\":151.75,\"amortizacao\":781.69,\"saldo\":7695.92},{\"mes\":4,\"juros\":137.76,\"amortizacao\":795.69,\"saldo\":6900.23},{\"mes\":5,\"juros\":123.51,\"amortizacao\":809.93,\"saldo\":6090.3},{\"mes\":6,\"juros\":109.02,\"amortizacao\":824.43,\"saldo\":5265.87},{\"mes\":7,\"juros\":94.26,\"amortizacao\":839.18,\"saldo\":4426.69},{\"mes\":8,\"juros\":79.24,\"amortizacao\":854.21,\"saldo\":3572.49},{\"mes\":9,\"juros\":63.95,\"amortizacao\":869.5,\"saldo\":2702.99},{\"mes\":10,\"juros\":48.38,\"amortizacao\":885.06,\"saldo\":1817.93},{\"mes\":11,\"juros\":32.54,\"amortizacao\":900.9,\"saldo\":917.03},{\"mes\":12,\"juros\":16.41,\"amortizacao\":917.03,\"saldo\":0}]}",
+      "dataSimulacao": "2025-08-20T23:34:02.851Z"
+    },
+    {
+      "id": 10,
+      "idSimulacao": 2025082046,
+      "valorDesejado": 10000,
+      "prazo": 24,
+      "produtoId": 1,
+      "resultadoSimulacao": "{\"tipo\":\"PRICE\",\"valorSolicitado\":10000,\"prazo\":24,\"taxaEfetivaMensal\":0.0179,\"parcelaMensal\":516.22,\"valorTotalComJuros\":12389.21,\"memoriaCalculo\":[{\"mes\":1,\"juros\":179,\"amortizacao\":337.22,\"saldo\":9662.78},{\"mes\":2,\"juros\":172.96,\"amortizacao\":343.25,\"saldo\":9319.53},{\"mes\":3,\"juros\":166.82,\"amortizacao\":349.4,\"saldo\":8970.13},{\"mes\":4,\"juros\":160.57,\"amortizacao\":355.65,\"saldo\":8614.48},{\"mes\":5,\"juros\":154.2,\"amortizacao\":362.02,\"saldo\":8252.46},{\"mes\":6,\"juros\":147.72,\"amortizacao\":368.5,\"saldo\":7883.96},{\"mes\":7,\"juros\":141.12,\"amortizacao\":375.09,\"saldo\":7508.87},{\"mes\":8,\"juros\":134.41,\"amortizacao\":381.81,\"saldo\":7127.06},{\"mes\":9,\"juros\":127.57,\"amortizacao\":388.64,\"saldo\":6738.42},{\"mes\":10,\"juros\":120.62,\"amortizacao\":395.6,\"saldo\":6342.82},{\"mes\":11,\"juros\":113.54,\"amortizacao\":402.68,\"saldo\":5940.14},{\"mes\":12,\"juros\":106.33,\"amortizacao\":409.89,\"saldo\":5530.25},{\"mes\":13,\"juros\":98.99,\"amortizacao\":417.23,\"saldo\":5113.02},{\"mes\":14,\"juros\":91.52,\"amortizacao\":424.69,\"saldo\":4688.33},{\"mes\":15,\"juros\":83.92,\"amortizacao\":432.3,\"saldo\":4256.03},{\"mes\":16,\"juros\":76.18,\"amortizacao\":440.03,\"saldo\":3816},{\"mes\":17,\"juros\":68.31,\"amortizacao\":447.91,\"saldo\":3368.09},{\"mes\":18,\"juros\":60.29,\"amortizacao\":455.93,\"saldo\":2912.16},{\"mes\":19,\"juros\":52.13,\"amortizacao\":464.09,\"saldo\":2448.07},{\"mes\":20,\"juros\":43.82,\"amortizacao\":472.4,\"saldo\":1975.67},{\"mes\":21,\"juros\":35.36,\"amortizacao\":480.85,\"saldo\":1494.82},{\"mes\":22,\"juros\":26.76,\"amortizacao\":489.46,\"saldo\":1005.36},{\"mes\":23,\"juros\":18,\"amortizacao\":498.22,\"saldo\":507.14},{\"mes\":24,\"juros\":9.08,\"amortizacao\":507.14,\"saldo\":0}]}",
+      "dataSimulacao": "2025-08-20T23:35:50.281Z"
+    },
+    {
+      "id": 11,
+      "idSimulacao": 2025082004,
+      "valorDesejado": 85000,
+      "prazo": 24,
+      "produtoId": 1,
+      "resultadoSimulacao": "{\"tipo\":\"PRICE\",\"valorSolicitado\":85000,\"prazo\":24,\"taxaEfetivaMensal\":0.0179,\"parcelaMensal\":4387.85,\"valorTotalComJuros\":105308.31,\"memoriaCalculo\":[{\"mes\":1,\"juros\":1521.5,\"amortizacao\":2866.35,\"saldo\":82133.65},{\"mes\":2,\"juros\":1470.19,\"amortizacao\":2917.65,\"saldo\":79216},{\"mes\":3,\"juros\":1417.97,\"amortizacao\":2969.88,\"saldo\":76246.12},{\"mes\":4,\"juros\":1364.81,\"amortizacao\":3023.04,\"saldo\":73223.08},{\"mes\":5,\"juros\":1310.69,\"amortizacao\":3077.15,\"saldo\":70145.93},{\"mes\":6,\"juros\":1255.61,\"amortizacao\":3132.23,\"saldo\":67013.69},{\"mes\":7,\"juros\":1199.55,\"amortizacao\":3188.3,\"saldo\":63825.39},{\"mes\":8,\"juros\":1142.47,\"amortizacao\":3245.37,\"saldo\":60580.02},{\"mes\":9,\"juros\":1084.38,\"amortizacao\":3303.46,\"saldo\":57276.55},{\"mes\":10,\"juros\":1025.25,\"amortizacao\":3362.6,\"saldo\":53913.96},{\"mes\":11,\"juros\":965.06,\"amortizacao\":3422.79,\"saldo\":50491.17},{\"mes\":12,\"juros\":903.79,\"amortizacao\":3484.05,\"saldo\":47007.12},{\"mes\":13,\"juros\":841.43,\"amortizacao\":3546.42,\"saldo\":43460.7},{\"mes\":14,\"juros\":777.95,\"amortizacao\":3609.9,\"saldo\":39850.8},{\"mes\":15,\"juros\":713.33,\"amortizacao\":3674.52,\"saldo\":36176.28},{\"mes\":16,\"juros\":647.56,\"amortizacao\":3740.29,\"saldo\":32435.99},{\"mes\":17,\"juros\":580.6,\"amortizacao\":3807.24,\"saldo\":28628.75},{\"mes\":18,\"juros\":512.45,\"amortizacao\":3875.39,\"saldo\":24753.36},{\"mes\":19,\"juros\":443.09,\"amortizacao\":3944.76,\"saldo\":20808.6},{\"mes\":20,\"juros\":372.47,\"amortizacao\":4015.37,\"saldo\":16793.22},{\"mes\":21,\"juros\":300.6,\"amortizacao\":4087.25,\"saldo\":12705.98},{\"mes\":22,\"juros\":227.44,\"amortizacao\":4160.41,\"saldo\":8545.57},{\"mes\":23,\"juros\":152.97,\"amortizacao\":4234.88,\"saldo\":4310.69},{\"mes\":24,\"juros\":77.16,\"amortizacao\":4310.69,\"saldo\":0}]}",
+      "dataSimulacao": "2025-08-20T23:35:58.776Z"
+    },
+    {
+      "id": 12,
+      "idSimulacao": 2025082024,
+      "valorDesejado": 70000,
+      "prazo": 23,
+      "produtoId": 1,
+      "resultadoSimulacao": "{\"tipo\":\"PRICE\",\"valorSolicitado\":70000,\"prazo\":23,\"taxaEfetivaMensal\":0.0179,\"parcelaMensal\":3739.63,\"valorTotalComJuros\":86011.43,\"memoriaCalculo\":[{\"mes\":1,\"juros\":1253,\"amortizacao\":2486.63,\"saldo\":67513.37},{\"mes\":2,\"juros\":1208.49,\"amortizacao\":2531.14,\"saldo\":64982.23},{\"mes\":3,\"juros\":1163.18,\"amortizacao\":2576.45,\"saldo\":62405.79},{\"mes\":4,\"juros\":1117.06,\"amortizacao\":2622.56,\"saldo\":59783.23},{\"mes\":5,\"juros\":1070.12,\"amortizacao\":2669.51,\"saldo\":57113.72},{\"mes\":6,\"juros\":1022.34,\"amortizacao\":2717.29,\"saldo\":54396.43},{\"mes\":7,\"juros\":973.7,\"amortizacao\":2765.93,\"saldo\":51630.5},{\"mes\":8,\"juros\":924.19,\"amortizacao\":2815.44,\"saldo\":48815.05},{\"mes\":9,\"juros\":873.79,\"amortizacao\":2865.84,\"saldo\":45949.22},{\"mes\":10,\"juros\":822.49,\"amortizacao\":2917.14,\"saldo\":43032.08},{\"mes\":11,\"juros\":770.27,\"amortizacao\":2969.35,\"saldo\":40062.73},{\"mes\":12,\"juros\":717.12,\"amortizacao\":3022.5,\"saldo\":37040.22},{\"mes\":13,\"juros\":663.02,\"amortizacao\":3076.61,\"saldo\":33963.62},{\"mes\":14,\"juros\":607.95,\"amortizacao\":3131.68,\"saldo\":30831.94},{\"mes\":15,\"juros\":551.89,\"amortizacao\":3187.74,\"saldo\":27644.2},{\"mes\":16,\"juros\":494.83,\"amortizacao\":3244.8,\"saldo\":24399.41},{\"mes\":17,\"juros\":436.75,\"amortizacao\":3302.88,\"saldo\":21096.53},{\"mes\":18,\"juros\":377.63,\"amortizacao\":3362,\"saldo\":17734.53},{\"mes\":19,\"juros\":317.45,\"amortizacao\":3422.18,\"saldo\":14312.35},{\"mes\":20,\"juros\":256.19,\"amortizacao\":3483.44,\"saldo\":10828.91},{\"mes\":21,\"juros\":193.84,\"amortizacao\":3545.79,\"saldo\":7283.12},{\"mes\":22,\"juros\":130.37,\"amortizacao\":3609.26,\"saldo\":3673.87},{\"mes\":23,\"juros\":65.76,\"amortizacao\":3673.87,\"saldo\":0}]}",
+      "dataSimulacao": "2025-08-20T23:36:46.888Z"
+    },
+    {
+      "id": 13,
+      "idSimulacao": 2025082057,
+      "valorDesejado": 12000,
+      "prazo": 13,
+      "produtoId": 1,
+      "resultadoSimulacao": "{\"tipo\":\"PRICE\",\"valorSolicitado\":12000,\"prazo\":13,\"taxaEfetivaMensal\":0.0179,\"parcelaMensal\":1042.84,\"valorTotalComJuros\":13556.91,\"memoriaCalculo\":[{\"mes\":1,\"juros\":214.8,\"amortizacao\":828.04,\"saldo\":11171.96},{\"mes\":2,\"juros\":199.98,\"amortizacao\":842.86,\"saldo\":10329.1},{\"mes\":3,\"juros\":184.89,\"amortizacao\":857.95,\"saldo\":9471.15},{\"mes\":4,\"juros\":169.53,\"amortizacao\":873.31,\"saldo\":8597.85},{\"mes\":5,\"juros\":153.9,\"amortizacao\":888.94,\"saldo\":7708.91},{\"mes\":6,\"juros\":137.99,\"amortizacao\":904.85,\"saldo\":6804.06},{\"mes\":7,\"juros\":121.79,\"amortizacao\":921.05,\"saldo\":5883.01},{\"mes\":8,\"juros\":105.31,\"amortizacao\":937.53,\"saldo\":4945.48},{\"mes\":9,\"juros\":88.52,\"amortizacao\":954.31,\"saldo\":3991.17},{\"mes\":10,\"juros\":71.44,\"amortizacao\":971.4,\"saldo\":3019.77},{\"mes\":11,\"juros\":54.05,\"amortizacao\":988.78,\"saldo\":2030.98},{\"mes\":12,\"juros\":36.35,\"amortizacao\":1006.48,\"saldo\":1024.5},{\"mes\":13,\"juros\":18.34,\"amortizacao\":1024.5,\"saldo\":0}]}",
+      "dataSimulacao": "2025-08-20T23:44:42.630Z"
+    },
+    {
+      "id": 14,
+      "idSimulacao": 2025082043,
+      "valorDesejado": 85000,
+      "prazo": 25,
+      "produtoId": 8,
+      "resultadoSimulacao": "{\"tipo\":\"PRICE\",\"valorSolicitado\":85000,\"prazo\":25,\"taxaEfetivaMensal\":0.0177,\"parcelaMensal\":4237.07,\"valorTotalComJuros\":105926.74,\"memoriaCalculo\":[{\"mes\":1,\"juros\":1504.5,\"amortizacao\":2732.57,\"saldo\":82267.43},{\"mes\":2,\"juros\":1456.13,\"amortizacao\":2780.94,\"saldo\":79486.49},{\"mes\":3,\"juros\":1406.91,\"amortizacao\":2830.16,\"saldo\":76656.34},{\"mes\":4,\"juros\":1356.82,\"amortizacao\":2880.25,\"saldo\":73776.08},{\"mes\":5,\"juros\":1305.84,\"amortizacao\":2931.23,\"saldo\":70844.85},{\"mes\":6,\"juros\":1253.95,\"amortizacao\":2983.12,\"saldo\":67861.73},{\"mes\":7,\"juros\":1201.15,\"amortizacao\":3035.92,\"saldo\":64825.82},{\"mes\":8,\"juros\":1147.42,\"amortizacao\":3089.65,\"saldo\":61736.16},{\"mes\":9,\"juros\":1092.73,\"amortizacao\":3144.34,\"saldo\":58591.83},{\"mes\":10,\"juros\":1037.08,\"amortizacao\":3199.99,\"saldo\":55391.83},{\"mes\":11,\"juros\":980.44,\"amortizacao\":3256.63,\"saldo\":52135.2},{\"mes\":12,\"juros\":922.79,\"amortizacao\":3314.28,\"saldo\":48820.92},{\"mes\":13,\"juros\":864.13,\"amortizacao\":3372.94,\"saldo\":45447.98},{\"mes\":14,\"juros\":804.43,\"amortizacao\":3432.64,\"saldo\":42015.34},{\"mes\":15,\"juros\":743.67,\"amortizacao\":3493.4,\"saldo\":38521.94},{\"mes\":16,\"juros\":681.84,\"amortizacao\":3555.23,\"saldo\":34966.71},{\"mes\":17,\"juros\":618.91,\"amortizacao\":3618.16,\"saldo\":31348.55},{\"mes\":18,\"juros\":554.87,\"amortizacao\":3682.2,\"saldo\":27666.35},{\"mes\":19,\"juros\":489.69,\"amortizacao\":3747.38,\"saldo\":23918.98},{\"mes\":20,\"juros\":423.37,\"amortizacao\":3813.7,\"saldo\":20105.27},{\"mes\":21,\"juros\":355.86,\"amortizacao\":3881.21,\"saldo\":16224.07},{\"mes\":22,\"juros\":287.17,\"amortizacao\":3949.9,\"saldo\":12274.16},{\"mes\":23,\"juros\":217.25,\"amortizacao\":4019.82,\"saldo\":8254.35},{\"mes\":24,\"juros\":146.1,\"amortizacao\":4090.97,\"saldo\":4163.38},{\"mes\":25,\"juros\":73.69,\"amortizacao\":4163.38,\"saldo\":0}]}",
+      "dataSimulacao": "2025-08-20T23:53:30.012Z"
+    }
+  ],
+  "telemetria": [],
+  "sequences": {
+    "produtos": 8,
+    "simulacoes": 14,
+    "telemetria": 0
+  }
+}
